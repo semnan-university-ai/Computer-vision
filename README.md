@@ -1,2 +1,15 @@
 # Computer-vision
-Computer vision - Amir Shokri 9811920009 &amp; Farshad Asgharzade Hampa 9811920004 &amp; Alireza Gholamnia 9811920011 
+Computer vision
+
+## Assistant Professor : 
+Dr. Fadaeieslam
+
+### By : 
+- Amir Shokri
+- Farshad Asgharzade
+- Alireza Gholamnia
+
+#### Emails :
+- amirsh.nll@gmail.com
+- Farshad_asgharzade@hotmail.com
+- gholamniareza@gmail.com
