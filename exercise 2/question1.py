@@ -22,7 +22,7 @@ def fibRecursive(n):
 	elif n < 0:
 		return 0
 	else:
-		fibRecursive(n-1)
+		fibRecursive(n-1) + fibRecursive(n-2)
 
 
 # Test Direct fibonacci
